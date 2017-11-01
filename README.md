@@ -1,7 +1,7 @@
 # vue-resume
 
 > vue resume use vue, vuex, scss, webpack, es6
-## You can visit this website to explore[vue-resume] (https://imgwho.github.io/jirengu/vue10-vuex4/dist/index.html)
+## You can visit this website to explore [vue-resume](https://imgwho.github.io/jirengu/vue10-vuex4/dist/index.html)
 ## Build Setup
 
 ``` bash
